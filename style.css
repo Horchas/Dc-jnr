@@ -294,6 +294,10 @@ main {
   .desktop {
     display: none;
   }
+
+  .mobile-hide{
+display: none;
+  }
   .mobile {
     width: 40%;
     padding-left: 0;
